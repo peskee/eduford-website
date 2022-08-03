@@ -216,7 +216,6 @@ h3 {
   position: absolute;
   opacity: 0;
   transition: 0.5s;
-  user-select: none; /* User can't select text */
 }
 .layer:hover h3 {
   bottom: 49%;
